@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahadataalchemy&show_icons=true&locale=en&layout=compact" alt="tahadataalchemy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahadataalchemy&show_icons=true&locale=en" alt="tahadataalchemy" /></p>
-
