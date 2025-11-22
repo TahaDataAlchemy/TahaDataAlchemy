@@ -80,9 +80,16 @@ class TahaMehboob:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+### 🔗 LLM & AI Tools
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+
 ### 🌐 Web Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🗄️ Databases
@@ -121,28 +128,14 @@ class TahaMehboob:
 
 ---
 
-## 📊 Detailed Stats
-
-<div align="center">
-
-### 💻 Weekly Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 📈 Language Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahadataalchemy&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
-
-</div>
-
----
+## 📊 Detailed Stats & Activity
 
 <div align="center">
 
 ### 💡 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/tahadataalchemy/tahadataalchemy/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
