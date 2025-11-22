@@ -52,10 +52,7 @@ class TahaMehboob:
 [![Taha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahadataalchemy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=0e75b6&point=ffffff)](https://github.com/tahadataalchemy)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=tahadataalchemy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/tahadataalchemy/tahadataalchemy/output/github-contribution-grid-snake.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahadataalchemy" alt="tahadataalchemy" /></a> </p>
 
 </div>
 
@@ -115,7 +112,7 @@ class TahaMehboob:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-mehboob-b49994221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-m-b49994221)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahamehboob281@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahaDataAlchemy)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/b19102152)
