@@ -44,7 +44,6 @@ class TahaMehboob:
   
 ### 📈 GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahadataalchemy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahadataalchemy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahadataalchemy&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=00f7ff&currStreakLabel=00f7ff)](https://git.io/streak-stats)
@@ -53,12 +52,10 @@ class TahaMehboob:
 [![Taha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahadataalchemy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=0e75b6&point=ffffff)](https://github.com/tahadataalchemy)
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=tahadataalchemy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=tahadataalchemy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📌 Top Repositories
-<a href="https://github.com/tahadataalchemy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahadataalchemy&repo=tahadataalchemy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
+### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/tahadataalchemy/tahadataalchemy/output/github-contribution-grid-snake.svg)
 
 </div>
 
