@@ -1,24 +1,160 @@
-<h1 align="center">Hi 👋, I'm Taha Mehboob</h1>
-<h3 align="center">An innovative and results-driven AI Engineer and Python Developer with a deep passion for leveraging advanced technologies to create intelligent and scalable</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Taha Mehboob
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahadataalchemy&label=Profile%20views&color=0e75b6&style=flat" alt="tahadataalchemy" /> </p>
+### 🚀 AI Engineer | Python Developer | Data Alchemist
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahadataalchemy" alt="tahadataalchemy" /></a> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Enthusiast;Full+Stack+AI+Developer;Transforming+Data+into+Insights" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/TahaDataAlchemy](https://github.com/TahaDataAlchemy)
+[![Profile Views](https://komarev.com/ghpvc/?username=tahadataalchemy&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/tahadataalchemy)
+[![GitHub followers](https://img.shields.io/github/followers/tahadataalchemy?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137&color=0e75b6)](https://github.com/tahadataalchemy?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/tahadataalchemy?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137&color=0e75b6)](https://github.com/tahadataalchemy?tab=repositories)
 
-- 📫 How to reach me **tahamehboob281@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/taha-mehboob-b49994221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taha-mehboob-b49994221" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/b19102152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/b19102152" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/taha_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/taha_28/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🎯 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahadataalchemy&show_icons=true&locale=en&layout=compact" alt="tahadataalchemy" /></p>
+```python
+class TahaMehboob:
+    def __init__(self):
+        self.role = "AI Engineer & Python Developer"
+        self.location = "Pakistan"
+        self.email = "tahamehboob281@gmail.com"
+        self.current_focus = ["Deep Learning", "MLOps", "AI Systems"]
+        self.learning = ["Advanced NLP", "Computer Vision", "Cloud Architecture"]
+        
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "C++", "SQL"],
+            "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV"],
+            "web": ["Django", "Flask", "FastAPI"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+            "cloud": ["AWS", "Azure", "GCP"],
+            "tools": ["Docker", "Git", "Postman", "Linux"]
+        }
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahadataalchemy&show_icons=true&locale=en" alt="tahadataalchemy" /></p>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+### 📈 GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahadataalchemy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahadataalchemy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahadataalchemy&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=00f7ff&currStreakLabel=00f7ff)](https://git.io/streak-stats)
+
+### 📊 Contribution Graph
+[![Taha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahadataalchemy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7ff&line=0e75b6&point=ffffff)](https://github.com/tahadataalchemy)
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=tahadataalchemy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy" />
+
+### 📌 Top Repositories
+<a href="https://github.com/tahadataalchemy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahadataalchemy&repo=tahadataalchemy&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-mehboob-b49994221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahamehboob281@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TahaDataAlchemy)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/b19102152)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/taha_28/)
+
+</div>
+
+---
+
+## 📊 Detailed Stats
+
+<div align="center">
+
+### 💻 Weekly Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📈 Language Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahadataalchemy&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/tahadataalchemy/tahadataalchemy/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⚡ Fun Fact
+> "Turning coffee into code, and data into insights!" ☕️➡️💻
+
+</div>
+
+<div align="center">
+  
+**🌟 Show some ❤️ by starring some repositories! 🌟**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
