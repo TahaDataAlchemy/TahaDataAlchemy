@@ -2,7 +2,8 @@
   
 # 👋 Hi, I'm Taha Mehboob
 
-### 🚀 AI Engineer | Python Developer | Data Alchemist
+
+### 🚀 AI Engineer | Python Developer | System Design
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Enthusiast;Full+Stack+AI+Developer;Transforming+Data+into+Insights" alt="Typing SVG" />
 
